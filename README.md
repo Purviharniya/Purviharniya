@@ -1,4 +1,4 @@
-# Hi, I am Purvi Harniya! :sparkles:👩🏻‍💻 <br>
+# Hi, I am Purvi! :sparkles:👩🏻‍💻 <br>
 <img src="https://github.com/Purviharniya/Purviharniya/blob/main/image%20.png" data-canonical-src="https://github.com/Purviharniya/Purviharniya/blob/main/image%20.png" /> <br>
 ## I am 
 > Always eager to learn new technologies and develop new projects. Determined to complete any task at hand.  
