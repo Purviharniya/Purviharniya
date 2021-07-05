@@ -1,5 +1,5 @@
 # Hi, I am Purvi Harniya! :sparkles:👩🏻‍💻
-![Image](https://raw.githubusercontent.com/Purviharniya/Purviharniya/master/images/image.png)
+![Image](https://raw.githubusercontent.com/Purviharniya/Purviharniya/master/image.webp)
 ## I am 
 > Always eager to learn new technologies and develop new projects. Determined to complete any task at hand.  
 > Programmer by Day💻, Artist by Night:art:
