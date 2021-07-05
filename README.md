@@ -4,8 +4,8 @@
 > Always eager to learn new technologies and develop new projects. Determined to complete any task at hand.  
 > Programmer by Day💻, Artist by Night:art:
 ## My GitHub Stats
-![Profile views](https://enjr4ag1p3vqq41.m.pipedream.net)
-![Purvi's github stats](https://github-readme-stats.vercel.app/api?username=Purviharniya&count_private=true&show_icons=true&theme=tokyonight)     
+![Profile views](https://enjr4ag1p3vqq41.m.pipedream.net)<br>
+![Purvi's github stats](https://github-readme-stats.vercel.app/api?username=Purviharniya&count_private=true&show_icons=true&theme=tokyonight) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purviharniya&layout=compact&theme=tokyonight&card_width=445)
 ## You can also find me here:  
 <a href="https://www.linkedin.com/in/purvi-harniya/" target="_blank">
