@@ -1,0 +1,21 @@
+# Hi, I am Purvi Harniya! :sparkles:👩🏻‍💻
+![Image](https://raw.githubusercontent.com/Purviharniya/Purviharniya/master/images/image.png)
+## I am 
+> Always eager to learn new technologies and develop new projects. Determined to complete any task at hand.  
+> Programmer by Day💻, Artist by Night:art:
+## My GitHub Stats
+![Purvi's github stats](https://github-readme-stats.vercel.app/api?username=Purviharniya&count_private=true&show_icons=true&theme=tokyonight)     
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purviharniya&layout=compact&theme=tokyonight&card_width=445)
+## You can also find me here:  
+<a href="https://www.linkedin.com/in/purvi-harniya/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+<a href="https://www.instagram.com/purvi_jh/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+<a href="mailto:purvi.harniya@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+ <a href="mailto:purvi.h@somaiya.edu" target="_blank">
+    <img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
