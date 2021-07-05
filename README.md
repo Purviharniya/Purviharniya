@@ -1,8 +1,7 @@
 # Hi, I am Purvi! :sparkles:👩🏻‍💻 <br>
 <img src="https://github.com/Purviharniya/Purviharniya/blob/main/image%20.png" data-canonical-src="https://github.com/Purviharniya/Purviharniya/blob/main/image%20.png" /> <br>
 ## I am 
-> Always eager to learn new technologies and develop new projects. Determined to complete any task at hand.  
-> Programmer by Day💻, Artist by Night:art:
+> Always eager to learn new technologies and develop new projects 💻. 
 ## My GitHub Stats
 ![Profile views](https://enjr4ag1p3vqq41.m.pipedream.net)<br>
 ![Purvi's github stats](https://github-readme-stats.vercel.app/api?username=Purviharniya&count_private=true&show_icons=true&theme=tokyonight) <br>
