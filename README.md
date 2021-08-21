@@ -76,7 +76,7 @@
   <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40" title="NPM" /> 
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" title="ReactJS" />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="node" width="40" height="40" title="NodeJS" />
-  <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" width="40" height="40" title="Json" />
+  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40" title="Json" />
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" title="GraphQl" />
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" title="MySQL"/>  
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" title="PostgreSQL"/>
@@ -97,11 +97,11 @@
   <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery" width="40" height="40" title="JQuery" />
 
   <img src="https://www.vectorlogo.zone/logos/qgis/qgis-ar21.svg" alt="qgis" width="40" height="40" title="QGIS" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="javascript" width="40" height="40" title="VSCode " />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="javascript" width="40" height="40" title="VSCode " />
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40" title="VueJS" />
   
-  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="kaggle" width="40" height="40" title="Kaggle" />
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" width="40" height="40" title="Jupyter" />
+  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40" title="Kaggle" />
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40" title="Jupyter" />
   
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" title="Linux" />
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40" title="Laravel" />
