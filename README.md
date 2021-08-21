@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     <br>
-  <img align="right" alt="GIF" src="https://github.com/Purviharniya/Purviharniya/blob/main/giphy.gif" width="400" height="270" />
+  <img align="right" alt="GIF" src="https://github.com/Purviharniya/Purviharniya/blob/main/giphy.gif" width="400" height="230" />
     👋 Hi! I'm <strong>Purvi Harniya</strong>, a senior student in Information Technology at K.J. Somaiya College of Engineering with excellent academic background, diverse skillset and research interest. I have worked in the domains of Web Development, Data Analytics and Machine Learning. I'm experienced in working with Python3, C, Flask, NodeJS, MongoDB, ReactJS, NextJS,Flutter, PHP, MySQL, PostgreSQL. 
     
   <p align=center>
