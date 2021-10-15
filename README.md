@@ -8,10 +8,6 @@
     <img src="https://badges.pufler.dev/years/Purviharniya" />
     <img src="https://enjr4ag1p3vqq41.m.pipedream.net" />
     <img src="https://badges.pufler.dev/repos/Purviharniya" />
-    <a href="https://github.com/Purviharniya">
-    <img src="https://badges.pufler.dev/commits/monthly/Purviharniya?color=blue" />
-    </a>
-
   </p>
   </samp>
 </p>
