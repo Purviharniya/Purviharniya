@@ -19,8 +19,6 @@
 <a href="https://www.linkedin.com/in/purvi-harniya/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 <a href="mailto:purvi.harniya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-840010?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="mailto:purvi.h@somaiya.edu" target="_blank"><img src="https://img.shields.io/badge/Gmail-840010?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://t.me/purvih"><img height="30" src="https://img.shields.io/badge/telegram-0769AD?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/purvi_jh/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 </p>
 
